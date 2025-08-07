@@ -23,8 +23,8 @@ Esta aplicación es un banco virtual creado con Python y Streamlit. Permite a lo
 
 ## 🧪 Cómo usar la app
 
-### 1. Clona el repositorio
+## 🚀 Demo en Vivo
 
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+Haz clic aquí para ver la aplicación funcionando:  
+👉 [Banco Virtual - Streamlit App](https://bancoapp-yossimar-fintech.streamlit.app/)
+
