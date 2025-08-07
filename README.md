@@ -21,9 +21,7 @@ Esta aplicación es un banco virtual creado con Python y Streamlit. Permite a lo
 4. **Retiros:** Retira dinero si hay suficiente saldo.
 5. **Interfaz amigable:** Usamos Streamlit para facilitar la interacción.
 
-## 🧪 Cómo usar la app
-
-## 🚀 Demo en Vivo
+## 🚀 Cómo usar la app
 
 Haz clic aquí para ver la aplicación funcionando:  
 👉 [Banco Virtual - Streamlit App](https://bancoapp-yossimar-fintech.streamlit.app/)
